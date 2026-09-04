@@ -22,10 +22,12 @@
 - 🌐 HTML
 - 🎨 CSS
 - ⚡ JavaScript
+- 🅱️ Bootstrap
 - ⚛️ React.js
 - 🧩 Data Structures & Algorithms
 - 🧠 Problem Solving
 - 🔧 Git & GitHub
+- 🐍 Python
 
 ---
 
@@ -39,6 +41,10 @@
 
 ### HackerRank
 🏅 **Problem Solving (Basic) – Verified Certification**
+
+### LeetCode
+🧩 **Data Structures & Algorithms**  
+🚀 **Problem Solving Journey**
 
 ---
 
@@ -59,6 +65,7 @@ Some of my projects include:
 - 👨‍💻 **GitHub:** [Swasti-program](https://github.com/Swasti-program)
 - 🏆 **CodeChef:** [swasti_03](https://www.codechef.com/users/swasti_03)
 - 💡 **HackerRank:** [swasti3062007](https://www.hackerrank.com/profile/swasti3062007)
+- 🧩 **LeetCode:** [swasti1234](https://leetcode.com/u/swasti1234/)
 
 ---
 
